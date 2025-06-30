@@ -18,6 +18,3 @@ A machine learning-based movie recommendation system using collaborative filteri
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open the Jupyter notebook
 4. Follow the step-by-step analysis
-
-## Demo
-[Add screenshots or demo video here]
